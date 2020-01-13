@@ -6,3 +6,4 @@ Pizza
 sushi
 carrot
 ramen
+human
