@@ -2,3 +2,4 @@ Curry
 Nachos
 Orange Chicken
 Pizza
+sushi
